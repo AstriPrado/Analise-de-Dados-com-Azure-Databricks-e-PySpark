@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como parte do **Bootcamp Microsoft AI - Azure Data
 - Clique em **Criar** e preencha as informações necessárias.
 - Clique em **Revisar + Criar** e depois em **Criar**.
 
-![Criação do recurso no Azure](./imagens/imagem_1.png)
+![Criação do recurso no Azure](img/imagem1.png)
 
 ---
 
@@ -23,42 +23,50 @@ Este projeto foi desenvolvido como parte do **Bootcamp Microsoft AI - Azure Data
 - Após a implantação, clique em **Ir para o recurso**.
 - Selecione **Iniciar workspace** para abrir o ambiente do Databricks.
 
-![Acessando workspace](./imagens/imagem_2.png)
+![Acessando workspace](img/imagem2.png)
 
 ---
 
 ### 3️⃣ Criando um Cluster (Versão Community)
 
-- No menu lateral, clique em **Compute** ou **Clusters**.
+- No menu lateral, clique em **Compute**
 - Clique em **Create Compute**.
 - A versão **Community** tem limitações, mas atende bem para projetos de estudo.
 
-![Criação do Cluster - parte 1](./imagens/imagem_3.png)
-![Criação do Cluster - parte 2](./imagens/imagem_4.png)
+![Criação do Cluster - parte 1](img/imagem3.png)
 
 ---
 
 ### 4️⃣ Criando um Notebook
 
-- Crie um Notebook ao subir o arquivo CSV para análise.
-- Dataset utilizado: **Análise de Vendas**.
+- O Notebook foi criado ao subir o arquivo CSV para análise.
+- Dataset utilizado: **sales_data**.
 
-![Criação do Notebook](./imagens/imagem_5.png)
+![Criação do Notebook](img/imagem4.png)
 
 ---
 
 ## 🔍 Análise de Dados com PySpark
 
-- 🔸 **Leitura do arquivo CSV**
-- 🔸 **Análise das Vendas por Produto**
-- 🔸 **Análise das Vendas por Cidade**
-- 🔸 **Análise das Vendas por Forma de Pagamento**
-- 🔸 **Evolução das Vendas por Mês**
+🔸 **Leitura do arquivo CSV**
 
-![Código de leitura](./imagens/imagem_6.png)
-![Análise Produto](./imagens/imagem_7.png)
-![Análise Cidade](./imagens/imagem_8.png)
-![Análise Forma de Pagamento e Evolução](./imagens/imagem_9.png)
+![Código de leitura](img/imagem5.png)
+
+🔸 **Análise das Vendas por Produto**
+
+![Análise Produto](img/imagem6.png)
+
+🔸 **Análise das Vendas por Cidade**
+
+![Análise Cidade](img/imagem7.png)
+
+🔸 **Análise das Vendas por Forma de Pagamento**
+
+![Análise Forma de Pagamento e Evolução](img/imagem8.png)
+
+🔸 **Evolução das Vendas por Mês**
+
+![Evolução Vendas por Mês](img/imagem9.png)
 
 ---
 
@@ -75,31 +83,8 @@ Este projeto foi desenvolvido como parte do **Bootcamp Microsoft AI - Azure Data
 
 ## 👩‍💻 Autor(a)
 
-Desenvolvido por **Astri** — [@SeuUsuarioGitHub](https://github.com/SeuUsuarioGitHub)  
+**Astri Prado** — [@SeuUsuarioGitHub](https://github.com/AstriPrado)  
 Projeto realizado como parte do **Bootcamp Microsoft AI - Azure Databricks**.
-
----
-
-## 📁 Estrutura de Pastas Sugerida
-
-```
-📦 Projeto-Databricks-Spark
-├── imagens
-│   ├── imagem_1.png
-│   ├── imagem_2.png
-│   ├── imagem_3.png
-│   ├── imagem_4.png
-│   ├── imagem_5.png
-│   ├── imagem_6.png
-│   ├── imagem_7.png
-│   ├── imagem_8.png
-│   ├── imagem_9.png
-├── dataset
-│   └── vendas.csv
-├── notebook
-│   └── analise-vendas.ipynb
-├── README.md
-```
 
 ---
 
