@@ -92,3 +92,4 @@ Projeto realizado como parte do **Bootcamp Microsoft AI - Azure Databricks**.
 
 - Optei por incluir apenas os prints dos códigos no README para mantê-lo mais leve e objetivo.
 - A análise foi realizada na versão **Community** do Databricks, mas o README traz também o passo a passo para configuração via Azure.
+- O arquivo do notebook (.ipynb) com todo o código da análise desenvolvida no Databricks está disponível neste repositório.
