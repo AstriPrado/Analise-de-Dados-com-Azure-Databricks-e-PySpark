@@ -83,7 +83,7 @@ Este projeto foi desenvolvido como parte do **Bootcamp Microsoft AI - Azure Data
 
 ## 👩‍💻 Autor(a)
 
-**Astri Prado** — [@SeuUsuarioGitHub](https://github.com/AstriPrado)  
+**Astri Prado** — [@MeuUsuarioGitHub](https://github.com/AstriPrado)  
 Projeto realizado como parte do **Bootcamp Microsoft AI - Azure Databricks**.
 
 ---
